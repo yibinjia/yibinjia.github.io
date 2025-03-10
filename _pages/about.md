@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I’m Yibin Jia. I'm a player and creator looking to better the future for all."
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+在我十岁的时候，我接触到了人生中的第一个电子游戏，CS1.6。从此我疯狂得迷上了它，并理所应当地成为了游戏玩家社区的一份子。我在游戏中度过了无数快乐的瞬间，也交到了许多好友。但随着年龄的增长，学业和现实的压力让我意识到美妙的游戏世界似乎并不能帮助我在现实世界过得好。它花掉了我太多的时间！
+
+从那个时候我告诉自己，我以后再也不要浪费时间在游戏中了！
+
+然而命运自有安排...
 
 A data-driven personal website
 ======
