@@ -1,19 +1,29 @@
 ---
 permalink: /
-title: "I’m Yibin Jia. I'm a player and creator looking to better the future for all."
+title: "About me."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+At the age of ten, I was introduced to my first video game, CS1.6. From then on, I became obsessed with it and joined the gaming community. I spent countless joyful moments in the game and made many friends. However, as I grew older, the pressures of real life made me realize that the video game had consumed TOO MUCH of my time!
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I told myself from that point on, I'd never waste time on games again.
 
-在我十岁的时候，我接触到了人生中的第一个电子游戏，CS1.6。从此我疯狂得迷上了它，并理所应当地成为了游戏玩家社区的一份子。我在游戏中度过了无数快乐的瞬间，也交到了许多好友。但随着年龄的增长，学业和现实的压力让我意识到美妙的游戏世界似乎并不能帮助我在现实世界过得好。它花掉了我太多的时间！
+Yet of course, fate had its way with me...
 
-从那个时候我告诉自己，我以后再也不要浪费时间在游戏中了！
+After that, I entered Jilin University, a great university that offers the opportunity to engage in various activities. We created educational software for power plant workers, joined drone and robot design competitions, and competed in the Asia-Pacific University Mathematics Competition. While some results were successful, many were frustrating. Still, I saw these experiences as valuable lessons, teaching me how to study and stay patient in different situations.
 
-然而命运自有安排...
+After graduating, I successfully secured a job in web development, but I felt that I was stagnant.
+
+I decided to quit my job and reached out to my graduate advisor, Professor Xiangshi Ren, an expert in HCI. He guided me through my undergraduate thesis and introduced me to game research. During my two years at the CHEC lab, I built strong friendships with my colleagues. We played, studied, and discussed games (sometimes debating). Influenced by my professor and colleagues, I completed my master's thesis on perceived difficulty in games. The journey wasn’t always smooth, but unlike merely watching the sea from the shore, I could now dive in and explore—though occasionally hitting some rocks.
+
+After graduating again, I’m motivated to move forward, aiming to use video games as an educational tool to make the world more peaceful and fun. In 2024, I developed a roguelike game for waste sorting, and in 2025, I’m working on a game for learning foreign languages. I also plan to apply for a PhD in game research. 
+
+Although this is a challenge, I will move towards it, day by day, step by step.
+
+I have no idea what the future holds, but you better believe I'll make the best of it. Thanks for reading.
+
 
 A data-driven personal website
 ======
