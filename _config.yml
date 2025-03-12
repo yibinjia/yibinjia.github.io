@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Day by day, step by step."
 title_separator          : "-"
 name                     : &name "Yibin Jia"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "yibin.png"
-  name             : "Your Sidebar Name"
+  name             : "Yibin Jia"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Game Creator"
+  location         : "Okayama, Japan"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hamlet1125051234@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
