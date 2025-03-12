@@ -16,7 +16,7 @@ After that, I entered Jilin University, a great university that offers the oppor
 
 After graduating, I successfully secured a job in web development, but I felt that I was stagnant.
 
-I decided to quit my job and reached out to my graduate advisor, Professor Xiangshi Ren, an expert in HCI. He guided me through my undergraduate thesis and introduced me to game research. During my two years at the CHEC lab, I built strong friendships with my colleagues. We played, studied, and discussed games (sometimes debating). Influenced by my professor and colleagues, I completed my master's thesis on perceived difficulty in games. The journey wasn’t always smooth, but unlike merely watching the sea from the shore, I could now dive in and explore—though occasionally hitting some rocks.
+I decided to quit my job and reached out to my graduate advisor, [Professor Xiangshi Ren](https://xiangshiren.com/), an expert in HCI. He guided me through my undergraduate thesis and introduced me to game research. During my two years at the CHEC lab, I built strong friendships with my colleagues. We played, studied, and discussed games (sometimes debating). Influenced by my professor and colleagues, I completed my master's thesis on perceived difficulty in games. The journey wasn’t always smooth, but unlike merely watching the sea from the shore, I could now dive in and explore—though occasionally hitting some rocks.
 
 After graduating again, I’m motivated to move forward, aiming to use video games as an educational tool to make the world more peaceful and fun. In 2024, I developed a roguelike game for waste sorting, and in 2025, I’m working on a game for learning foreign languages. I also plan to apply for a PhD in game research. 
 
