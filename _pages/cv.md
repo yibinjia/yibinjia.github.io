@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<meta http-equiv="refresh" content="0; url='/files/Resume_YibinJia.pdf'" />
+<meta http-equiv="refresh" content="0; url='files/Resumes_YibinJia.pdf'" />
 
 Education
 ======
