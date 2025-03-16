@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-<meta http-equiv="refresh" content="0; url='files/Resumes_YibinJia.pdf'" />
-<embed src="files/Resumes_YibinJia.pdf" width="100%" height="800px" type="application/pdf">
+<meta http-equiv="refresh" content="0; url='https://yibinjia.github.io/files/Resumes_YibinJia.pdf'" />
+# <embed src="files/Resumes_YibinJia.pdf" width="100%" height="800px" type="application/pdf">
 
 
 Education
