@@ -1,7 +1,7 @@
 ---
 title: "The World of Trash: Learning Waste Sorting Through a Roguelike Game"
 permalink: /projects/202407-project-1
-date: 2014-07
+date: 2024-07-01
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
