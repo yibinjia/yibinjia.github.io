@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-<embed src="https://yibinjia.github.io/files/Resumes_YibinJia.pdf" width="100%" height="800px" type="application/pdf">
+<embed src="https://yibinjia.github.io/files/Resumes_YibinJia.pdf" width="100%" height="1200px" type="application/pdf">
